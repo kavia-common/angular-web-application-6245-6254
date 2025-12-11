@@ -1,0 +1,4 @@
+{
+    "command": "npm start -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/angular-web-application-6245-6254/angular19_frontend"
+}
